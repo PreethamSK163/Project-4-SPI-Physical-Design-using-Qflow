@@ -92,7 +92,7 @@ Installed Qflow on Ubuntu via `sudo apt-get install qflow` — automatically res
 
 > 📁 [View Stage Details](./01%20:%20Tool%20Setup%20%26%20Invocation/README.md)
 
----
+
 
 **02 — Synthesis** &nbsp;|&nbsp; `Yosys` `ABC` `blifFanout` `Gate-Level Netlist`
 
@@ -100,7 +100,7 @@ Executed RTL synthesis using Yosys with ABC for logic optimization and technolog
 
 > 📁 [View Stage Details](./02%20:%20Synthesis/README.md)
 
----
+
 
 **03 — Placement** &nbsp;|&nbsp; `Graywolf` `Simulated Annealing` `DEF` `Power Stripes`
 
@@ -108,7 +108,7 @@ Placed 3,106 standard cells across 36 rows using Graywolf's simulated annealing 
 
 > 📁 [View Stage Details](./03%20:%20Placement/README.md)
 
----
+
 
 **04 — Static Timing Analysis** &nbsp;|&nbsp; `Vesta` `Critical Path` `Setup Time` `Slack`
 
@@ -116,7 +116,7 @@ Performed pre-route static timing analysis using Vesta on the OSU018 standard ce
 
 > 📁 [View Stage Details](./04%20:%20Static%20Timing%20Analysis/README.md)
 
----
+
 
 **05 — Routing** &nbsp;|&nbsp; `Qrouter` `22417 Routes` `No Failed Routes` `DEF`
 
@@ -124,7 +124,7 @@ Executed detailed routing using Qrouter across 3 stages — completing 22,417 to
 
 > 📁 [View Stage Details](./05%20:%20Routing/README.md)
 
----
+
 
 **06 — DRC & LVS** &nbsp;|&nbsp; `Magic` `Netgen` `drc=0` `LVS Clean`
 
@@ -132,7 +132,7 @@ Performed Design Rule Checking using Magic 8.3 — processed 50,000 rectangles a
 
 > 📁 [View Stage Details](./06%20:%20DRC%20%26%20LVS/README.md)
 
----
+
 
 **07 — GDSII Generation** &nbsp;|&nbsp; `Magic` `GDSII` `Tape-out` `Final Layout`
 
@@ -140,7 +140,7 @@ Generated the final GDSII file using Magic's `generate_gds_spi_top.tcl` script �
 
 > 📁 [View Stage Details](./07%20:%20GDSII%20Generation/README.md)
 
----
+
 
 <h2>🤝 Connect</h2>
 
