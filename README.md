@@ -1,4 +1,4 @@
-# SPI Physical Design using Qflow
+# SPI Controller - Timing Closure and Physical Sign-off
 > RTL-to-GDSII Physical Design Implementation of a Serial Peripheral Interface (SPI) Controller
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
