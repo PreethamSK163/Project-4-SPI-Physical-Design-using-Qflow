@@ -73,14 +73,6 @@
 ├── 📁 05 : Routing                   → Qrouter, 22417 routes, no failures
 ├── 📁 06 : DRC & LVS                 → Magic DRC clean, Netgen LVS clean
 ├── 📁 07 : GDSII Generation          → Magic GDSII, fabrication ready
-├── 📁 source                         → SPI RTL Verilog source files
-│   ├── spi_top.v
-│   ├── spi_clgen.v
-│   ├── spi_shift.v
-│   ├── spi_slave.v
-│   ├── spi_defines.v
-│   ├── timescale.v
-│   └── spi_top.ys
 └── 📄 README.md
 ```
 
